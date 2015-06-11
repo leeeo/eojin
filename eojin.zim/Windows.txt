@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-27T08:44:45+09:00
+
+====== Windows ======
+
+
+[[+BeDeveloper]] :
+[[+Book]] :
+[[+BucketList]] :
+[[+CommonSense]] :
+[[+Contacts]] :
+[[+Country]] :
+[[+Event]] :
+[[+Habits]] :
+[[+Item]] :
+[[+LEJ]] :
+[[+People]] :
+[[+Stock]] :
+[[+Study]] :
+[[+Wiki]] :
+[[+Work]] :
+[[+YouTube]] :
+
+
+링크모음..정리하든 말든
+
+http://sunnykwak.tistory.com/m/post/98
+http://sunnykwak.tistory.com/m/post/97
+https://pages.github.com/
+http://www.itworld.co.kr/techlibrary/92562
+http://www.rasplay.org/
+http://www.itworld.co.kr/slideshow/92915
+http://www.bloter.net/archives/196684
+http://www.microsoftvirtualacademy.com/training-courses/using-git-with-visual-studio-2013-jump-start
+http://www.ibatstudio.com/%EA%B8%B0%EC%B4%88-%EB%93%9C%EB%A1%9C%EC%9E%89-%EC%9D%B8%EC%B2%B4%ED%8E%B8%EC%9D%84-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/?utm_source=Facebook&utm_medium=Social+Adv&utm_campaign=%EA%B8%B0%EC%B4%88+%EB%93%9C%EB%A1%9C%EC%9E%89+%EB%AC%B4%EB%A3%8C
+http://elegantcoder.com/git-plus/
+http://www.seoulnpocenter.kr/bbs/board.php?bo_table=npo_aca&wr_id=146
+http://www.slideshare.net/sunnykwak90/ss-43933481
+http://www.itworld.co.kr/slideshow/93053
+https://cryptosan.github.io/pythondocuments/
+http://rogerdudler.github.io/git-guide/index.ko.html
+https://bitbucket.org/
+http://codebreak.com/
+http://opentutorials.org/course/1688/9483
+http://m.vingle.net/posts/575163-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9C%BC%EB%A1%9C-%EC%98%81%EC%96%B4%EA%B3%B5%EB%B6%80-%ED%98%BC%EC%9E%90%ED%95%98%EA%B8%B0-%EC%B6%94%EC%B2%9C%EC%82%AC%EC%9D%B4%ED%8A%B8-20%EC%84%A0
+https://www.kickstarter.com/projects/34257246/the-python-101-screencast
+http://www.wiz.center/
+http://samsungitkorea.com/606
+http://csscorners.com/
+http://hakmalyoung.tistory.com/notice/13
+http://365ok.co.kr/
+https://github.com/atom/electron
+http://worlditshow.co.kr/wp2/blog/category/news/report/page/2/
+http://coolors.co/
+http://www.monicah.net/
+http://live.afreeca.com:8079/app/index.cgi?szType=list_ucc_bbs&szBjId=kenuheo&nStationNo=12409927&szBbsType=REVIEW&szSkin=
+
+http://www.jayway.com/2015/04/13/600k-concurrent-websocket-connections-on-aws-using-node-js/?utm_content=bufferede3d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+http://okdevtv.com/kr/socket.io-chat-kr.html
+
+
+
+====== Reference ======

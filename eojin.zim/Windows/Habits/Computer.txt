@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-20T16:33:11+09:00
+
+====== Computer ======
+
+1. https://algospot.com/
+2. Raspberry Pi
+	a. 네이버 카페(라즈베리파이) http://cafe.naver.com/pipc
+	b. 네이버 카페(오로카) http://cafe.naver.com/openrt
+	c. 산딸기 마을 http://www.rasplay.org/
+
+====== Reference ======
+

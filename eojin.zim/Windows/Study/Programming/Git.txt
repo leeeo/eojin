@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-03T15:29:07+09:00
+
+====== Git ======
+
+1. git homepage : http://git-scm.com/
+2. git wiki korea : http://ko.wikipedia.org/wiki/%EA%B9%83_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
+3. git progit download : http://git-scm.com/book/ko/v1
+4. git 누구나 쉽게 이해할 수 있는 git 입문 : http://backlogtool.com/git-guide/kr/?fb_action_ids=10202257605236397&fb_action_types=og.likes
+5. git 생활코딩 버전관리 : http://opentutorials.org/course/303/2283
+6. git Learn git branching : http://pcottle.github.io
+7. git try git : https://try.github.io/levels/1/challenges/1
+8. git become a git guru : https://www.atlassian.com/git/tutorials/
+9. git 명령어 정리 : http://blog.outsider.ne.kr/572
+
+
+
+====== Reference ======

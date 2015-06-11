@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-17T09:02:36+09:00
+
+====== File System ======
+
+운영체제마다 다름
+
+	* Windows : FAT, FAT32, NTFS
+	* Linux : EXT2, EXT3, EXT4
+
+윈도우에서 외장하드 사용시 파일시스템 드라이버를 설치하여 읽고 쓰고
+
+
+====== Reference ======

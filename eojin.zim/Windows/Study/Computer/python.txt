@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-20T08:59:39+09:00
+
+====== Python ======
+
+1. https://wikidocs.net/book/1
+
+
+[[+AByteofPython]] :
+[[+automatetheboringstuff]] :
+[[+Python&Ruby]] :
+
+
+====== Reference ======

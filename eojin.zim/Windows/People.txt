@@ -1,0 +1,54 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-20T16:42:33+09:00
+
+====== People ======
+
+===== 함건주 =====
+
+== 리눅스에 안드로이드 개발 환경 구축 ==
+
+1. == 자바 설치 ==
+
+
+2. Adroid SDK Bundle 설치
+http://developer.android.com/sdk/index.html
+
+
+https://code.google.com/p/android-apktool/downloads/list
+
+https://bitbucket.org/JesusFreke/smali/downloads
+
+
+3. 32bit 라이브러리 설치
+
+4. 각종 툴 다운로드 및 실행 설정
+
+
+===== 천정호 =====
+
+
+1. Revision 체크
+2. thread를 이용한 progress bar control
+3. server-client 통신(C#)
+
+
+
+===== Alan Mathison Turing =====
+
+Wik[[[http://ko.wikipedia.org/wiki/%EC%95%A8%EB%9F%B0_%ED%8A%9C%EB%A7%81|Link]]]
+Wie[[[http://en.wikipedia.org/wiki/Alan_Turing|Link]]]
+
+전공시간과 영화 이미테이션 게임을 통해 알게 된 인물
+에니그마 암호
+
+
+===== 문지인 =====
+
+Wik[[[http://ko.wikipedia.org/wiki/%EB%AC%B8%EC%A7%80%EC%9D%B8|Link]]]
+
+KBS 드라마스페셜 2015 - 웃기는 여자 를 통해 알게 된 배우
+매력있고 밝은 배우, 이상형
+
+====== Referene ======
+

@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-02-22T18:49:07+09:00
+
+====== Study ======
+
+[[+BigData]] :
+[[+Computer]] :
+[[+Document]] :
+[[+egoing]] :
+[[+Kiwon]] :
+[[+Language]] :
+[[+Programming]] :
+[[+SQL]] :
+
+
+====== Reference ======

@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-18T11:58:12+09:00
+
+====== Part.02.동사만들기 ======
+[[[https://www.youtube.com/playlist?list=PL39D50937628305D7|Link]]]
+**20**
+	1. p2c0u0 동사서론 [[[https://www.youtube.com/watch?v=_8tMzm-CjSY&index=1&list=PL39D50937628305D7|ytube]]]
+	2. p2c1u1 단순시제 01 [[[https://www.youtube.com/watch?v=yr8PlARvUIA&index=2&list=PL39D50937628305D7|ytube]]]
+	3. p2c1u1 단순시제 02 [[[https://www.youtube.com/watch?v=uYh2a5HAcKU&index=3&list=PL39D50937628305D7|ytube]]]
+	4. p2c1u1 단순시제 03 [[[https://www.youtube.com/watch?v=maah02fGODw&index=4&list=PL39D50937628305D7|ytube]]]
+	5. p2c1u2 진행형 01 [[[https://www.youtube.com/watch?v=Lu-gcJlcZnA&index=5&list=PL39D50937628305D7|ytube]]]
+	6. p2c1u2 진행형 02 [[[https://www.youtube.com/watch?v=dzsUUiAHbUY&index=6&list=PL39D50937628305D7|ytube]]]
+	7. p2c1u3 완료시제 01 [[[https://www.youtube.com/watch?v=V4dos9F0rAo&index=7&list=PL39D50937628305D7|ytube]]]
+	8. p2c1u3 완료시제 02 [[[https://www.youtube.com/watch?v=NUV3HHapbFk&index=8&list=PL39D50937628305D7|ytube]]]
+	9. p2c1u3 완료시제 03 [[[https://www.youtube.com/watch?v=owNy6-PjWmk&index=9&list=PL39D50937628305D7|ytube]]]
+	10. p2c1u3 완료시제 04 [[[https://www.youtube.com/watch?v=wQ7a9JSfAg8&index=10&list=PL39D50937628305D7|ytube]]]
+	11. p2c1u3 완료시제 05 [[[https://www.youtube.com/watch?v=OwL_MZ2nssU&index=11&list=PL39D50937628305D7|ytube]]]
+	12. p2c2u0 수동태만들기 서론 01 [[[https://www.youtube.com/watch?v=L4Apj1V6yRw&index=12&list=PL39D50937628305D7|ytube]]]
+	13. p2c2u0 수동태만들기 서론 02 [[[https://www.youtube.com/watch?v=xoJMEp51KDI&index=13&list=PL39D50937628305D7|ytube]]]
+	14. p2c2u1 단순수동태 01 [[[https://www.youtube.com/watch?v=RABaRWDbX9U&index=14&list=PL39D50937628305D7|ytube]]]
+	15. p2c2u1 단순수동태 02 [[[https://www.youtube.com/watch?v=vFH5cl9ZdfA&index=15&list=PL39D50937628305D7|ytube]]]
+	16. p2c2u1 단순수동태 03 [[[https://www.youtube.com/watch?v=5rBeiCmh4gk&index=16&list=PL39D50937628305D7|ytube]]]
+	17. p2c2u2 완료수동태 01 [[[https://www.youtube.com/watch?v=wy2QR1cDis8&index=17&list=PL39D50937628305D7|ytube]]]
+	18. p2c2u2 완료수동태 02 [[[https://www.youtube.com/watch?v=CuNob5I7cpc&index=18&list=PL39D50937628305D7|ytube]]]
+	19. p2c2u2 완료수동태 03 [[[https://www.youtube.com/watch?v=uyhP8ykOk3g&index=19&list=PL39D50937628305D7|ytube]]]
+	20. p2c2u2 완료수동태 04 [[[https://www.youtube.com/watch?v=rmiRuC2u9v0&index=20&list=PL39D50937628305D7|ytube]]]
+
+
+====== Reference ======

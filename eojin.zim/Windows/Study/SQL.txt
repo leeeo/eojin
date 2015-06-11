@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-03T15:17:37+09:00
+
+====== SQL ======
+
+
+SQL강좌[[[http://365ok.co.kr/bbs/board.php?bo_table=edusql|Link]]]
+
+
+
+====== Reference ======

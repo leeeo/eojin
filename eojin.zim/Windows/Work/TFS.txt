@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-02T10:02:02+09:00
+
+====== TFS ======
+
+== 팀 파운데이션 서버 ==
+[[[http://ko.wikipedia.org/wiki/%ED%8C%80_%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98_%EC%84%9C%EB%B2%84|wik]]]
+
+1. Team Foundation Server 2013 Express download [[[https://www.visualstudio.com/ko-kr/products/visual-studio-express-vs|Link]]]
+2. Team Foundation Server 2013 Express 실행(tfs_express.exe)
+
+하드웨어 요구 사항
+•2.2 GHz 이상 프로세서
+•1 GB RAM
+•4 GB의 사용 가능한 하드 디스크 공간
+
+====== Reference ======

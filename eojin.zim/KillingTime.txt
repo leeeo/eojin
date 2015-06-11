@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-26T23:53:20+09:00
+
+====== KillingTime ======
+
+
+[[+Drama]] :
+[[+Movie]] :
+[[+Music]] :
+[[+Show]] :
+[[+Place]] :
+
+
+====== Reference ======

@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-28T19:32:07+09:00
+
+====== BigData ======
+
+
+High-Level : Python, R, Julia
+Lower-Level : Java, Scala/Clojure, C++/Go
+
+Codecademy
+UDACITY
+treehouse
+COURSERA
+HACKERRANK
+Project Euler.net
+
+mathematics : Linear Algebra(Matrix Factorization), Calculus(Integrals, Derivatives, etc), Graph Theory, Probability/Combinatorics
+statistical analysis : Distributions(Binomial, Poisson, etc.), Summary Statistics(Mean, Variance, etc.), Hypothesis Testing, Bayesian Analysis)
+
+KHANACADEMY
+Massachusetts Institute of Technology
+
+Machine Learning : Supervised(SVM, Random Forest), Unsupervised(K-means, LDA), NLP/Information Retrueval, Validation, Model Comparison
+Software Engineering : Algorithms, & Data Structures, Data Visualization, Data Munging, Distributed Computing
+
+The Open Source Data Science Masters
+
+Metacademy
+
+Gaussian distribution
+
+Sliderule Data Analysis
+
+Context is King
+
+github kaggle
+
+====== Reference ======

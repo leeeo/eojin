@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-31T08:44:04+09:00
+
+====== Work ======
+
+===== 인물 =====
+마크 저커버그
+[[[http://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC_%EC%A0%80%EC%BB%A4%EB%B2%84%EA%B7%B8|wik]]]
+[[+Helper]] :
+
+
+===== 공부 =====
+[[+Coding]] :
+[[+Linux]] :
+[[+MultiCore]] :
+
+===== 회사 =====
+[[+Subversion]] :
+
+===== 서버 =====
+[[+Git]] :
+[[+TFS]] :
+[[+AWS]] :
+
+
+
+
+
+
+
+====== Reference ======

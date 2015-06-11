@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-28T11:29:18+09:00
+
+====== Kiwon ======
+
+===== Zim =====
+https://github.com/Kiwon/kiwon.zim/archive/master.zip
+zim note github repository : https://github.com/Kiwon/kiwon.zim
+
+
+===== 강의 =====
+[[+ProgrammingApplication]] : [[[http://kiwon.github.io/se.ProgrammingApplication/|Link]]]
+
+====== Reference ======

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-26T23:43:39+09:00
+
+====== 암달의법칙 ======
+[[[http://ko.wikipedia.org/wiki/%EC%95%94%EB%8B%AC%EC%9D%98_%EB%B2%95%EC%B9%99|Link]]]
+
+
+
+====== Reference ======

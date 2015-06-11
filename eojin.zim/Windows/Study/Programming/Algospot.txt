@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-02T13:28:38+09:00
+
+====== Algospot ======
+
+python을 이용해 풀어갈 예정~
+
+===== Keywords =====
+표준입출력[[[http://en.wikipedia.org/wiki/Standard_streams|wie]]]
+
+===== Problem List =====
+[[+HELLOWORLD]] : O
+[[+MERCY]] : O
+[[+ENDIANS]] : O, Endian[[[http://ko.wikipedia.org/wiki/%EC%97%94%EB%94%94%EC%96%B8|wik]]][[[http://en.wikipedia.org/wiki/Endianness|wie]]], Big Endians, Little Endians 
+[[+DRAWRECT]] :
+
+====== Reference ======

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-01-20T15:08:24+09:00
+
+====== Contacts ======
+
+[[+Family]] :
+[[+Friends]] :
+[[+Co-workers]] :
+
+====== Reference ======

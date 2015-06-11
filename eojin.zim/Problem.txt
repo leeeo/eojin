@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-20T16:55:03+09:00
+
+====== Problem ======
+
+공유기 외부접속
+라즈베리파이
+
+
+====== Reference ======

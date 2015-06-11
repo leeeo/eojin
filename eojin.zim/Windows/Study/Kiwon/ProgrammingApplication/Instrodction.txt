@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-28T11:30:58+09:00
+
+====== Instrodction ======
+
+===== 강의 소개 Instroduction =====
+
+이 수업을 통해 공학 연구생들은 컴퓨터와 그와 관련된 공학적 문제를 다루기 전에 다양한 컴퓨터 프로그래밍에 관련한 배경지식과 응용력을 갖출 것이다. R 프로그래밍 언어를 배우고 실제 응용하는 방법을 학습함으로써 공학적 문제 해결에 새로운 접근방법을 시도할 수 있게 될 것이다.
+
+	Engineering students who take this class before dealing with any other computational issue or other related engineering problem will get a strong background knowledge on various topics in computer programming.
+	The course is designed to provide students with the insight of computer and programming application technique in use.
+	Students will be able to enhance their capability of thinking creatively for new way to solve issue through R programming language.
+
+
+====== Reference ======

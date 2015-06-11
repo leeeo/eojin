@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-17T09:11:02+09:00
+
+====== Format ======
+
+
+mkfs.파일시스템 장치명
+mount -t ntfs 장치명 디텍토리
+mount -t ntfs -3g 장치명 디렉토리
+
+====== Reference ======

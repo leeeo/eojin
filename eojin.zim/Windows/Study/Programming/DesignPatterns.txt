@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-20T11:57:27+09:00
+
+====== DesignPatterns ======
+
+Head First Design Patterns[[[http://wiki.gurubee.net/pages/viewpage.action?pageId=1507372|Link]]]
+[[[http://secretroute.tistory.com/entry/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4MVC-MVP-and-MVVM|Link]]]
+
+
+====== Reference ======

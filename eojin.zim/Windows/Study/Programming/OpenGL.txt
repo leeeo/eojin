@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-05T11:44:38+09:00
+
+====== OpenGL ======
+[[[http://ko.wikipedia.org/wiki/OpenGL|wik]]][[[http://en.wikipedia.org/wiki/Opengl|wie]]]
+
+===== OpenGL tutorial =====
+http://www.videotutorialsrock.com/index.php
+
+http://www.saschawillems.de/
+http://www.codeproject.com/Articles/749543/OpenGL-in-NET-Getting-Started
+
+https://social.msdn.microsoft.com/Search/en-US/vstudio?query=opengl&Refinement=195&ac=4
+
+http://www.codeproject.com/Articles/749543/OpenGL-in-NET-Getting-Started
+http://nehe.gamedev.net/tutorial/texture_mapping/12038/
+
+http://nehe.gamedev.net
+http://www.gisdeveloper.co.kr
+
+
+====== Reference ======
+http://www.soen.kr/
+http://alleysark.tistory.com/257
+http://www.gisdeveloper.co.kr/entry/OpenGL-Tutorial-OpenGL-%EC%B4%88%EA%B8%B0%ED%99%94?category=15
+

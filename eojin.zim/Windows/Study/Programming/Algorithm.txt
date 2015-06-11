@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-24T09:25:00+09:00
+
+====== Algorithm ======
+[[[https://algospot.com/|Link]]]
+
+
+0. HELLOWORLD
+1. MERCY
+2. ENDIANS
+
+====== Reference ======

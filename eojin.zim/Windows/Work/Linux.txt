@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-17T08:44:45+09:00
+
+====== Linux ======
+
+
+[[+Format]] :
+[[+File System]] :
+[[+Mount]] : 물리적인 장치를 특정한 위치에 연결시켜 주는 과정
+
+
+====== Reference ======

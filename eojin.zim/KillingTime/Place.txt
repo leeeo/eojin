@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-27T17:49:49+09:00
+
+====== Place ======
+
+[[+Korean]] :
+[[+Others]] :
+
+====== Reference ======

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-06T10:11:57+09:00
+
+====== PuTTY ======
+
+Download[[[http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html|Link]]]
+
+
+
+====== Reference ======

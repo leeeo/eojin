@@ -1,0 +1,81 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-01T12:12:42+09:00
+
+====== Term ======
+
+
+===== A =====
+AWS(Amazon Web Sevices)
+AMI(Amazon Machine Image)
+
+===== B =====
+
+===== C =====
+CLI(Command Line Interface)
+CSS(Cascading Style Sheets)
+
+
+===== D =====
+DN(Domain Name)
+DNS(Domain Name System)
+
+
+===== E =====
+EC2(Elastic Computer Cloud)
+
+===== F =====
+
+===== G =====
+GUI(Graphic User Interface)
+
+===== H =====
+HTML(HyperText Martup Language)
+href(hypertext reference)
+
+===== I =====
+IDE(Integrated Development Environment)
+
+===== J =====
+
+===== K =====
+
+===== L =====
+
+===== M =====
+
+===== N =====
+
+===== O =====
+OpenGL(Open Graphics Library)
+GLUT(OpenGL Utility Toolkit)
+
+===== P =====
+
+===== Q =====
+
+===== R =====
+RVM(Ruby Version Manager)
+
+
+===== S =====
+
+===== T =====
+
+===== U =====
+URL(Uniform Resource Locator)
+
+
+===== V =====
+
+===== W =====
+WWW(World Wide Web)
+
+===== X =====
+
+===== Y =====
+
+===== Z =====
+
+
+====== Reference ======

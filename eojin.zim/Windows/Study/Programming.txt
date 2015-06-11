@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-03T15:21:17+09:00
+
+====== Programming ======
+
+===== Computer =====
+[[+Algorithm]] :
+[[+Algospot]] :
+[[+DataAnalysis]] :
+[[+DesignPatterns]] :
+
+===== Language =====
+[[+C]] :
+[[+HTML&CSS]] :
+[[+Java]] :
+
+===== Library =====
+[[+OpenGL]] :
+[[+SharpGL]] :
+
+===== License =====
+[[+APACHE_LICENCE]] :
+[[+GNU(Gnu_is_Not_Unix)_General_Public_License(GPL)]] :
+[[+GNU_AFFERO_GPL(AGPL)]] :
+[[+GNU_Lesser_GPL(LGPL)]] :
+[[+MIT_License]] :
+[[+Artistic_License]] :
+[[+Eclipse_License]] :
+[[+]][[Berkeley_Software_Distribution(BSD)_License]] :
++[[+Mozilla_Public_License(MPL)|Mozilla_Public_License(MPL)]] :
+
+===== RaspberryPi =====
+[[+RaspberryPi]] :
+
+===== Service =====
+[[+AWS]] :
+
+===== Software =====
+[[+Git]] :
+[[+PuTTY]] :
+[[+Zim]] :
+
+====== Reference ======

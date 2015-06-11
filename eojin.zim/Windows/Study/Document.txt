@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-20T16:57:04+09:00
+
+====== Document ======
+
+
+[[+Endian]] :
+
+
+====== Reference ======

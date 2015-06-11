@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-06T09:44:17+09:00
+
+====== Endian ======
+
+
+http://ko.wikipedia.org/wiki/%EC%97%94%EB%94%94%EC%96%B8
+
+====== Reference ======

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-01T19:27:17+09:00
+
+====== korean ======
+
+[[+SNL코리아]] :
+[[+개그콘서트]] :
+
+
+====== Reference ======

@@ -1,0 +1,69 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-27T16:35:14+09:00
+
+====== IntelProgramming교육 ======
+
+***캐시미스 잡기, 데이터 병렬화
+
+* 세미나 정리
+(김성수 팀장)
+Part 1. 병렬프로그래밍 이해
+		- CPU 구조 - 코어수, 캐시
+		- 병렬적 생각(효과적일까 아닐까에 대한 고민)
+	1. 무어의 법칙
+			Main Memory and irtual Memory 
+			Processor Caches - 캐시 미스를 줄여 속도차이를 줄이자
+			네할렘구조[[[http://ko.wikipedia.org/wiki/%EB%84%A4%ED%95%A0%EB%A0%98_%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98|Link]]]
+			캐시 히트 캐시 미스
+			메모리 히트 메모리 미스
+			궁극적 목표 - 캐시미스를 줄이자
+	Part 2. 병렬프록래밍 이해
+		step1. data 병렬화 SIMD, TBB, OpemMP, PPL
+			암달의 법칙[[[http://ko.wikipedia.org/wiki/%EC%95%94%EB%8B%AC%EC%9D%98_%EB%B2%95%EC%B9%99|Link]]]
+		step2. task 병렬화
+		step3. function 병렬화 thread
+		병렬화의 어려움 - race condition
+		레이스 컨디션을 제거하기 위한 여러 방법
+(최봉영) 하드웨어 아키텍쳐
+Intel 병렬 프로그래밍 & Xeon Phi
+		out-of-order 기능탑재 CPU(성능 up, 발열 up) super scalar 방식
+		SIMD - vectorization
+		Compiler-Based Autovectorization - computer가 스스로 vectorization을 하느냐 마느냐
+		Software Behind the Vectorization
+		core의 병렬화
+		MPI(Message Passing Interface) : 시스템을 연결해서 병렬화 가능
+		Compiler에게 병렬화 옵션 주기 (#pragma)
+		http://manycore-inside.com/index.html
+(박영수 이사) 소프트웨어
+Xeon Phi Programming(자체 OS)
+		GPGPU
+		Archirecture
+		MPI방식/Offload방식(Explicit, Implicit)
+		SIMD(Vectorization)
+실습
+		time 명령어(ex. time ./a)
+		icc -o hello hello.c
+		icc -no-vec hello hello.c
+		
+		제온파이 없는경우
+		no vec -> vec -> 병렬화
+		제온파이 있는경우
+		다양
+
+
+
+
+
+
+
+
+
+
+iconv -c -f euc-kr -t utf-8
+
+
+
+
+
+====== Reference ======

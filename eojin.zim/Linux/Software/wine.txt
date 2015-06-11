@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-31T00:51:42+09:00
+
+====== wine ======
+
+{{./pasted_image.png}}
+
+Wine Is Not an Emulator(와인은 에뮬레이터가 아니다)
+
+리눅스에서 윈도우 프로그램 실행하기
+
+==== install ====
+apt-get install wine
+
+
+====== Reference ======

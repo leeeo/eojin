@@ -1,0 +1,74 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-01-02T01:54:57+09:00
+
+====== Syllabus ======
+
+강좌명 Title : 
+학수번호-분반 Code : 
+이수구분 Couse Classfication: 
+개설학과 Department : 
+학점 Dredits : 
+강의시간 Class Time/Room : 
+면담시시간 Counsel : 
+교강사명 Instructor : 
+연구실 Loboratory : 
+연락처 Contact Information : 
+이메일 E-mail : 
+홈페이지 Homepage : [개인용] [수업용]
+
+수업개요 Introduction : 
+수업목표 Goals : 
+
+
+수업유형 Lecturing Type : 
+	이론 Theory : 
+	실험/실습 Experiments/Hands-on Practice : 
+	실기 Practice : 
+	Abeek설계 Design(Abeek):
+	캡스톤디자인 Capstone Design : 
+	기타 Others : 
+수업진행 Lecturing :
+	토의/토론 Discussion : 
+	특강/세미나 Special Lecture/Seminar : 
+	팀별/개별발표 Team/Individual Presentation : 
+	시청각 Audiovisual education : 
+	온라인강의 On-line Lecture : 
+	KLAS 활용 KLAS Participation : 
+	PBL/CBL PBL/CBL : 
+평가방법 Evaluation Method : 
+	중간고사 Mid-term : 
+	기말고사 Final : 
+	과제보고서 Homework/Report : 
+	발표 Presentation : 
+	실험/실습 Experiments/Hands-on Practice : 
+	출석 Attendance : 
+	기타 Others : 
+	
+주교재 Primary Textbook : 
+	서명 Title : 
+	저자명 Author Name : 
+	출판사 Jones and Bartlet : 
+	출판년도 Published Year : 
+	비고 ISBN: 
+	
+주별강의내용 Contents of Weekly Lectures : 
+
++week01 : 
++week02 : 
++week03 : 
++week04 : 
++week05 : 
++week06 :  
++week07 : 
++week08 : 
++week09 :  
++week10 : 
++week11 : 
++week12 :
++week13 : 
++week14 : 
++week15 : 
+
+
+====== Reference ======

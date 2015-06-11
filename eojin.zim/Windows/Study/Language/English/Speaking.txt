@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-01T16:24:33+09:00
+
+====== Speaking ======
+
+
+Hanmadiro Speaking [Link]
+onABCD [[[http://onabcd.com/|Link]]]
+
+
+====== Reference ======

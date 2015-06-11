@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-17T13:19:13+09:00
+
+====== MultiCore ======
+
+병렬컴퓨팅 관련 블로그[[[http://ouzok.blog.me/60212635829|Link]]]
+
+=== 병렬 프로그램 모델 ===
+SIMD - SIMD는 작은 수준의 병렬 프로그래밍으로 대부분의 데스크톱 PC에 장착된 CPU는 SIMD를 지원하기 때문에 컴퓨터 하드웨어의 특성을 적게 받는다. AMD와 Intel의 대부분의 CPU는 병렬처리를 지원한다. SIMD를 지원한다면 싱글코어 CPU에서도 빠르게 동작하기 때문에 가장 간편하게 병렬처리의 해택을 받을 수 있다. 
+
+공유메모리 병렬 프로그래밍 모델 - 하나의 스레드가 아닌 멀티스레드로 데이터를 처리하여 병렬 처리하는 것을 의미한다. 멀티스레드에서 빠른 성능을 얻기 위해서는 처리하는 CPU가 다수 있어야 한다. 최소 듀얼 코어 이상의 CPU가 장착된 컴퓨터가 지원되어야 한다. 또는 다수의 GPU가 있는 그래픽 카드를 장착하여 효과를 얻을 수 있다.
+멀티스레딩, pthreads, OpenMP, CUDA가 여기에 속한다.
+ 
+메시지 패싱 병렬 프로그래밍 모델 - 여러 개의 PC를 메시지로 통신하여 대용량의 데이터를 처리하는 것을 의미한다. 분산컴퓨팅, 그리드 컴퓨팅과 같은 의미이다.
+MPI, HPF, PVM가 속한다.
+ 
+하이브리드 모델 - 위 세가지를 혼합하여 사용하면 큰 효과를 얻을 수 있다.
+OpenMP+MPI, SIMD+멀티스레딩, GPU+CPU등이 여기에 속한다.
+
+
+
+Concurrency Runtime(병행 런타임) components
+* Parallel Patterns Library - 작업을 작고 세밀하게 처리할 수 있도록 범용적인 컨테이너와 알고리즘 제공
+* Asynchronous Agents Library - Actor 베이스 모델 및 메시지 전달을 통해서 작고 세밀한 data flow와 task pipeniling을 제공
+* Task Scheduler - 실행 시에 task의 스케쥴링 및 조정
+* Resource Manager - Processors나 메모리 등의 컴퓨팅 리소스를 관리하는 것이 목적
+
+PPL의 세가지 features
+* Task Parallelism - 비구조적  task_group, 구조적 task_group
+* Parallel algorithms - 데이터 컬렉션을 대상으로 쉽게 병렬 작업을 할 수 있게 해주는 알고리즘
+* Parallel containers and objects
+
+동기화 문제
+
+=== SSE ===
+Streaming SIMD Extensions
+
+=== AVX ===
+Advanced Vector Extensions
+
+=== SIMD ===
+Single Instruction Multiple Data 
+
+
+====== Reference ======

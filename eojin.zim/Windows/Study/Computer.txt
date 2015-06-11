@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-02-22T18:52:37+09:00
+
+====== Computer ======
+
+
+[[+Editor]] :
+[[+Excel]] :
+[[+Python]] :
+[[+Term]] :
+[[+Web]] :
+
+
+go
+http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book
+
+
+====== Reference ======

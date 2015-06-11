@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-02T09:49:01+09:00
+
+====== Subversion ======
+
+
+
+
+
+== Subversion commit시 log를 필수 입력하도록 설정하는 방법 ==
+Subversion commit시 log를 생략하여 차후 history 추적시나 tracking시에 어려운 점이 있어, 서버 차원에서 강제적으로 log를 입력해야지 commit할 수 있도록 조정을 하였고, 그 방법을 공유한다. 
+
+Repository의 hooks 디렉토리의 “pre-commit” shell을 조정하면 된다.
+ 
+설치 방법은
+ 1) pre-commit 설치/ 환경 설정
+ 
+1. pre-commit 설치/ 환경 설정
+ #cd /data1/svn/(Repository Name)/hooks
+ #cp pre-commit.tmpl pre-commit
+ #vi pre-commit
+ ————————————————————————-
+ REPOS=”$1″
+ TXN=”$2″
+ 
+/usr/bin/svnlook log -t “$TXN” “$REPOS” | grep “[a-zA-Z0-9]” > /dev/null || exit 1
+ ————————————————————————-
+ 
+
+이렇게 하면 svn client에서 commit log를 입력해야지만 commit이 된다.
+ 
+
+
+
+====== Reference ======

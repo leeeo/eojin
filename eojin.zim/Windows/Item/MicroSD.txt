@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-27T14:53:47+09:00
+
+====== MicroSD ======
+
+T-Flash 메모리
+
+SD(Secure Digital)[[[https://mirror.enha.kr/wiki/Secure%20Digital|Link]]]
+
+
+휴대폰, MP3 플레이어, PMP 등 다양한 제품에서 사용되는 소형저장장치입니다. 사진이나 동영상, 음성 등 다양한 매체를 저장할 수 있으며 SD메모리 중에 가장 작은 크기를 가지고 있습니다. 전송속도에 따라 클래스 2, 4, 6, 10으로 나누어지며 숫자가 높을수록 속도가 빠르고 용량에 따라 SD, SDHC, SDXC로 나누어지며 SDXC는 2T까지의 저장용량을 가집니다. 사용하려는 기기에서 MicroSD를 지원해야 사용할 수 있습니다.
+
+==== 저장 방식에 따른 분류 ====
+SLC (Single Level Cell)
+	- 한 개의 소자가 1 비트를 가짐
+	- 수명 : 10만 회
+	- 속도 : 50~100k (cycle 당)
+MLC (Multi Level Cell)
+	- 한 개의 소자가 2 비트를 가짐
+	- 수명 : 1만 회
+	- 속도 : 5~10k (cycle 당)
+TLC (Triple Level Cell)
+	- 한 개의 소자가 3 비트를 가짐
+	- 수명 : 1000 회
+	- 속도 : 1~3k (cycle 당)
+
+
+==== 클래스 ====
+CLASS 2:쓰기속도 2MB/s
+CLASS 4:쓰기속도 4MB/s
+CLASS 6:쓰기속도 6MB/s
+CLASS 8:쓰기속도 8MB/s
+CLASS 10:쓰기속도 10MB/s
+
+만일 Micro SD카드를 산다면, 방수기능은 물론이고 이왕이면 X-ray 저항성을 가진 제품을 고르는 것이 좋다. 그렇지 않은 경우 디카가 보안심사대를 통과하면서 사진 데이터가 훼손되는 수도 있다(...).
+
+====== Reference ======

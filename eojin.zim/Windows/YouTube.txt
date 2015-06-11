@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-03T16:01:27+09:00
+
+====== YouTube ======
+
+자기 소개서를 쓰는 법 | 김유리 | TEDxBusan 
+https://www.youtube.com/watch?v=rnD6VqJWyW0&feature=youtu.be
+나는 프로그래머다 - 영어 개발자 특집 1부
+http://www.podbbang.com/ch/9126
+Python & Ruby
+https://opentutorials.org/module/1569
+
+====== Reference ======

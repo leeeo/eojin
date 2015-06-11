@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-01-20T15:09:53+09:00
+
+====== o-workers ======
+
+=== DMS ===
+B
+	함건주
+	천정호
+	강희영
+	홍석민
+	김다운
+		
+W
+	최기영(개발1팀장님)
+	찌메이루(관리팀, 기숙사, 택시)
+	쬬우샨샨(통역)
+
+
+
+
+====== Reference ======

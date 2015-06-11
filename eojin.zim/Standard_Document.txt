@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-26T23:27:07+09:00
+
+====== Standard Document ======
+
+[[+IEEE]] :
+
+====== Reference ======

@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-26T16:36:44+09:00
+
+====== RaspberryPi ======
+
+==== Helper ====
+1. 네이버 카페(라즈베리파이) http://cafe.naver.com/pipc
+2. 네이버 카페(오로카) http://cafe.naver.com/openrt
+3. 산딸기 마을 http://www.rasplay.org/
+
+==== Needs ====
+1. micro SD 카드(바른전자 골드플래쉬 마이크로SD 메모리) [[[http://www.coupang.com/np/products/69834215?coupang=69834215|Link]]]
+
+==== Progress ====
+개발을 위한 SSH 환경 꾸미기
+SSH[[[http://ko.wikipedia.org/wiki/SSH|wik]]]
+SSH터널링(검색해보기)
+
+- ssh pi@192.168.0.21 -p 1022
+
+외부IP주소 192.168.25.10
+1820
+leeeo.iptime.org
+9001
+http://disybell.com/ip/index.htm?port=9001
+
+번호	규칙이름 	내부 IP 	프로토콜 	외부 포트 	내부 포트 	
+
+1 		home	192.168.0.3	tcp	18080-18080	8080-8080	
+2 		notebook	192.168.0.3	tcp	11082-11082	1082-1082	
+3 		ftp	192.168.0.3	tcp	10021-10021	21-21	
+4 		ssh	192.168.0.3	tcp	10022-10022	22-22	
+
+
+
+공유기 외부접속
+http://pastimelife.com/703
+http://yeodang.blog.me/60185118572
+
+== 이전 정리 ==
+	http://cafe.naver.com/pipc
+	RPi.강좌
+	하루에 적어도 하나씩
+	http://www.dt.co.kr/contents.html?article_no=2015020502109960718001
+	http://blog.naver.com/dlfnsgjwjq?Redirect=Log&logNo=130181233839
+	http://cafe.naver.com/openrt
+	http://kr.element14.com/raspberry-pi-accessories?CMP=KNC-NAV-COM-RPI&NVKWD=%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B42+%EA%B5%AC%EB%A7%A4&NVADKWD=%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B42%EA%B5%AC%EB%A7%A4&NVAR=PL&NVADID=1493884099+0CK0003Br0rjy5W400%2D6
+
+
+
+====== Reference ======

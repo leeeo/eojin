@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-04-17T08:45:05+09:00
+
+====== Mount ======
+
+- 드라이브 장치 개념
+- 물리적인 기계(device) 영역을 특정 파일 시스템(간단히, 디렉토리)과 연동(mapping)시키는 것
+
+=== 명령어 ===
+* mount 디바이스명 디텍토리명 :
+* unmount :
+* mount의 영구 적용 : 
+* 라벨명 변경 : 1. 존재하는 LABEL인지 확인하는 명령 - findfs LABEL=디렉토리명
+			 2. 라벨 변경법 - e2label 디바이스명 디렉토리
+
+
+====== Reference ======

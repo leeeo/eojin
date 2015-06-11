@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-06T14:26:40+09:00
+
+====== Hanmadiro ======
+[[[http://hanmadiro.com/|Home]]] [[[https://www.youtube.com/channel/UCdHVJ6jrjm8EeLuamOX-7EQ|ytube]]]
+박형식 강사 [//4//]
+
+===== Secret Grammar =====
+	[[+영어의 비밀]] : 50 Lectures [//4//]
+	[[+Part.00.한마디로공식]] : 26 Lectures [//4//]
+	[[+Part.01.주어만들기]] : 52 Lectures [//4//]
+	[[+Part.02.동사만들기]] : 20 Lectures [//4//]
+	[[+Part.03.목적어만들기]] : 46 Lectures [//4//]
+	[[+Part.04.보어만들기]] : 53 Lectures [//4//]
+	[[+Part.05.명사꾸며주기]] : 106 Lectures [//4//]
+	[[+Part.06.다양한부사절]] : 49 Lectures [//4//]
+	[[+SecretPractice]] : 17 Lectures [//4//]
+
+
+===== Speaking Listening =====
+	[[+SecretSpeaking]] : [[[http://hanmadiro.com/bbs/board.php?bo_table=speaking|Link]]]
+	[[+SecretListening]] : [[[http://hanmadiro.com/bbs/board.php?bo_table=listening|Link]]]
+
+
+===== Reading =====
+	[[+SecreatReading]] : [[[http://hanmadiro.com/bbs/board.php?bo_table=reading|Link]]] 35 Lectures
+
+
+====== Reference ======
+

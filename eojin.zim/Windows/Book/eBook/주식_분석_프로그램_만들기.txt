@@ -1,0 +1,140 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-27T10:07:05+09:00
+
+====== 주식 분석 프로그램 만들기 ======
+
+김세훈 저자
+한빛미디어 출판
+
+
+===== MFC 프로그래밍 주식 분석 프로그램 만들기 =====
+
+OS : Windows
+Editor : Visual Strudio 2008
+
+=== 01 MFC 시작하기 ===
+MFC(Microsoft Foundation Class)
+증권회사API
+Excel 매크로
+프로그래밍
+
+== 1.1 Visual Studio ==
+
+== 1.2 MFC 프로그래밍을 위한 준비 ==
+
+== 1.2.1 프로젝트 생성하기 ==
+보일러플레이트(Boilerplate) : 기본적으로 생성되는 파일
+
+== 1.2.2 Button 만들기 ==
+
+== 1.2.3 Class 추가하기 ==
+
+=== 02 Chart 그리기 ===
+
+== 2.1 Data Structure ==
+개별 종목 하나를 하나의 구조체
+구조체 배열로 관리
+직접 증권회사에서 데이터를 가져와서 구조체 구성->실시간 자동매매 프로그램 구축
+
+== 2.2 File Data 읽기 ==
+파일입출력
+
+Hard Disk - Memory - Program
+
+파일 읽기
+FILE *fp;
+fp = fopen("fileName", "rt");
+fscanf(fp, "%d\n", &variable);
+fclose(fp);
+
+파일 쓰기
+FILE *fp;
+fp = fopen("fileName", "wt");
+fprintf(fp, "%d\n", variable);
+fclose(fp);
+
+MFC에서 _T를 쓰는 이유 : ASCII에서 UNICODE로 형변환을 하기 위해
+
+LPSTR, LPCTSTR : MFC자료형으로 'CString'->'char*' 로 형변환
+
+Error C2664 : 유니코드에서 멀티바이트로 문자 설정 변경 필요(프로젝트 문자 집합 변경 : 프로젝트-속성-구성속성-일반-문자집합-멀티바이트 문자 집합 사용)
+
+Warning C4996 : 경고 표시되지 않도록...  속성-C/C++의 전처리기에 "_CRT_SECURE_NO_DEPRECATE;" 추가
+
+== 2.3 Combo Box 만들기 ==
+
+== 2.4 Chart 그리기 ==
+Candle Chart 주식 차트
+
+
+=== 03 이평선 ===
+주식 시장 Stock market
+뉴욕 월가 Wall Street
+이동평균선 Moving Average Line
+
+주식을 상징하는 동물 : 곰과 황소의 싸움
+뉴욜 원가의 상징 : 황소 동상
+곰이 이기면 하락장
+황소가 이기면 상승장
+
+== 3.1 이평선 분석 ==
+Golden Cross 골든 크로스 : 5평선이 20평선을 넘어가는 순간
+Dead Cross 데드 크로스 : 5평선이 20평선 아래로 떨어지는 순간
+
+시스템 트레이딩은 분봉으로 하는 것이 좋다.
+
+== 3.2 이평선 구현 ==
+
+== 3.3 골든 크로스 검증 ==
+골든 크로스
+
+== 3.4 이평선 오실레이터 ==
+
+=== 04 MACD ===
+MACD(Moving Average Convergence & Divergence) 이동 평균의 수렴과 발산
+지수이동평균(EMA : Exponential Moving Average)
+
+== 4.1 MACD 분석 ==
+지수 이동 평균이 지수함수의 특징을 갖
+MACD = 단기 지수 이동평균 - 장기 지수 이동평균
+Signal = n일의 MACD 지수이동평균
+증권회사에서 제공하는 MACD의 지수이동평균기간 → MACD = 12일 지수이동평균 - 26일 지수이동평균, Signal = MACD의 9일 지수이동평균
+MACD 오실레이터 → 붉은색 구간 - 상승 추세, 파란색 구간 - 하락 추세
+파란색에서 붉은색으로 바뀔 때 매수
+붉은색에서 파란색으로 바뀔 때 매도
+
+== 4.2 MACD 구현 ==
+
+== 4.3 MACD 오실레이터 ==
+MACD 오실레이터는 MACD 시그널 의미
+MACD 자동매매 승률은 높지 않다. 보조 지표일 뿐, 응용하여 자신만의 알고리즘 생성 필요
+주식의 복기
+왜 사고팔았는지 이유를 분석하고 자기 생각이 맞는지 틀리는지 분석
+
+== 4.4 MFC Window Message ==
+
+
+=== 05 Bollinger Band ===
+존 볼린저(John Bollinger)가 만든 주식 보조 지표
+볼린저 밴드 투자기법, 존 볼린저 지음, 이레미디어, 2010
+수학의 표준편차를 사용하여 주식을 분석하는 것
+거래량이 반영된 MACD와 볼린저 밴드를 함께 사용하여 투자하는 것이 좋다
+
+== 5.1 볼린저 밴드 분석 ==
+볼린저 밴드에서 사용하는 표준편차는 데이터들이 평균값에서 얼마나 떨어져 있는지를 알아보는 식
+
+== 5.2 볼린저 밴드 구현 ==
+볼린저 밴드에서 변경할 수 있는 값 - 평균을 만드는 개수(보통 20), 표준편차의 폭을 늘리기 위하여 곱하는 값(보통 2)
+
+== 5.3 볼린저 밴드 오실레이터 ==
+창업 - 아이템(정보가 아닌 지식-정보의 생명은 시간), 사람, 자본
+
+
+
+=== 06 알고리즘 추가하기 ===
+
+=== APPENDIX ===
+
+
+====== Reference ======

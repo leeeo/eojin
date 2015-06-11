@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-06-03T16:11:35+09:00
+
+====== automatetheboringstuff ======
+
+[[[https://automatetheboringstuff.com/|Link]]]
+
+
+====== Reference ======

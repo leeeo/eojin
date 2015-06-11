@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-05-21T15:22:20+09:00
+
+====== BeDeveloper ======
+
+http://www.moreagile.net/2014/12/HowtoBecomeAnExpertDeveloper.html?m=1
+
+http://java.dzone.com/articles/mouse-programmers-enemy
+https://support.google.com/chrome/answer/157179?hl=ko
+
+The Command Line Crash Course : [[[http://cli.learncodethehardway.org/book/|Link]]]
+Youtube Command Line tutorial : [[[https://www.youtube.com/results?search_query=command+line+tutorial|Link]]]
+http://regexone.com/
+
+Vim demo : [[[https://www.youtube.com/watch?v=QNAXa0W4OFg|Link]]]
+Emacs demo : [[[https://www.youtube.com/watch?v=8vdOrsywra0|Link]]]
+Vi 튜토리얼 : [[[http://www.tutorialspoint.com/unix/unix-vi-editor.htm|Link]]]
+초보자를 위한 emacs 튜토리얼 : [[[http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/|Link]]]
+
+http://www.powersearchingwithgoogle.com/
+
+====== Reference ======
